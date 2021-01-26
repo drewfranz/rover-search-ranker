@@ -24,4 +24,4 @@ $ ./roverSearchRanker.js parse reviews.csv
 ```console
 $ npm test
 ```
-The application utilizez [Mocha.js](https://github.com/mochajs/mocha) and [Chai.js](https://github.com/chaijs/chai) for unit testing.
+The application uses [Mocha.js](https://github.com/mochajs/mocha) and [Chai.js](https://github.com/chaijs/chai) for unit testing.
